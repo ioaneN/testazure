@@ -1,0 +1,4 @@
+steps:
+- script: echo "first script"
+- script: echo "Second script"
+- script: echo "Third script"
